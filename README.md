@@ -32,7 +32,7 @@ Los datos para el presente proyecto fueron obtenidos del siguiente repositorio: 
 
 ### Exploración de los datos  :mag_right:
 
-Como el dataset original está en inglés,se traducjo todo en español para tener una mejor comprensión del mismo.
+Como el dataset original está en inglés,se tradujo todo a español para tener una mejor comprensión del mismo.
 La exploración visual de datos permite a los científicos de datos examinar y explorar grandes volúmenes de datos de manera intuitiva y eficiente. Al representar los datos visualmente, se pueden identificar características importantes, como valores atípicos, distribuciones, correlaciones y agrupaciones, que podrían no ser evidentes al examinar solo los números o las tablas de datos.
 
 Haciendo uso de Matplotlib y Seaborn se generaron diversos gráficos para entender mejor los datos.
