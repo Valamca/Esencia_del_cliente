@@ -1,6 +1,7 @@
 #  Esencia del cliente | Python | Data Science | Alura
 <br>
 
+
 ![alchemyrefiner_alchemymagic_0_d4d504ef-4fa9-4606-ba97-54474a8c0361_0](https://github.com/Valamca/Esencia_del_cliente/assets/129345721/90b605a2-8e2f-4c77-9af0-d50dbb87f402)
 
 <ul align = center>
@@ -14,6 +15,7 @@
 
 
 ## Descripción: :page_facing_up: 🤖
+
 Este proyecto tiene como objetivo presentar un análisis de ciencia de datos sobre la base de clientes de una cadena de supermercados. Se centra en la clusterización de los clientes para lograr un enfoque más efectivo hacia ellos.
 
 ### Configuración del ambiente: :computer: 
@@ -55,6 +57,9 @@ Para la **Validación** se usaron las métricas:<br>
 
 Una vez se realizó la clusterización, se generaron las descripciones de que tipo de información fueron asignados a cada tipo de cluster, y algunas de las recomendaciones que se dan para abordar a cada tipo de segmentación de cliente.
 
+<ul aligh = center>
+<img src="https://github.com/Valamca/Esencia_del_cliente/assets/129345721/a44478e4-8c8f-4c88-a8e7-da6362e55542" />
+</ul>
 
 **Desarrollador** :wink: 
 
